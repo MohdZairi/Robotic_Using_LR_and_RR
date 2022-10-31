@@ -19,5 +19,10 @@ a. Source files (.py, .sim): 3 marks <br>
 b. First robot (LEFT): 2 marks <br>
 c. Second robot (RIGHT): 5 marks <br>
 
+<!----------------------------------- output - Mohd Zairi ------------------------------------>
+<p>
+    <img src="https://img.shields.io/badge/Output-B71C1C?style=for-the-badge&logo=output&logoColor=white" alt="Output" />
+    <img src="https://github.com/MohdZairi/Robotic_Using_LR_and_RR/blob/main/Screenshot%20(63).png" alt="output">
+</p>
 
 
