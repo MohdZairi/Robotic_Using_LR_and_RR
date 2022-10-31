@@ -1,0 +1,24 @@
+3 BITI
+Section: 1
+Group: 1
+
+Full Name: MOHD ZAIRI ABD GHANI
+Matric Number: B031910029
+
+Write below a short explanation (how it works, challenges, limitations, etc.) on your simulation answer:
+
+
+For the right hand rule
+-Robot will prior Right first before STRAIGHT and LEFT
+-I also provide Each time robot too close to RIGHT WALL,The robot will CURVE LEFT 50 degree 
+ and each time robot too close to LEFT WALL,The robot will CURVE RIGHT 50 degree 
+-Im using Lidar to detect distance robot with wall and also lidar will scan minimum distance between ROBOT and WALL
+
+For the LEFT hand rule
+-Robot will prior LEFT first before STRAIGHT and RIGHT
+-I also provide Each time robot too close to LEFT WALL,The robot will CURVE RIGHT 50 degree 
+ and each time robot too close to RIGHT WALL,The robot will CURVE LEFT 50 degree 
+-Im using Lidar to detect distance robot with wall and also lidar will scan minimum distance between ROBOT and WALL
+
+
+Each ROBOT using Lidar just for Detect Distance Wall and ROBOT
